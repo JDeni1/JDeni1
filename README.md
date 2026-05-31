@@ -8,6 +8,7 @@
 
 🌱 I’m currently learning ...
 - Python and C
+- React
 
 ⚡ Fun fact: ...
 - I want to live in the country side one day! 
